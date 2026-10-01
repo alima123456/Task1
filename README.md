@@ -22,4 +22,5 @@ curl localhost:3000/health
 ```
 
 ## Screenshots
-Add screenshots of the successful workflow run and the image on DockerHub here.
+<img width="1271" height="582" alt="image" src="https://github.com/user-attachments/assets/9e70f320-a967-4e8e-ab04-5b1317675527" />
+
